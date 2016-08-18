@@ -31,6 +31,7 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt update
 # Install some packages
 sudo apt install sublime-text-installer numlockx git cabextract
+sudo ln -s /usr/bin/subl /usr/bin/sublime
 # Install consolas font
 wget http://download.microsoft.com/download/E/6/7/E675FFFC-2A6D-4AB0-B3EB-27C9F8C8F696/PowerPointViewer.exe
 # Extract font
