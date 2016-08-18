@@ -28,3 +28,4 @@ And installs the following packages:
 
 - google-chrome-stable
 - sublime text 3
+- numlockx

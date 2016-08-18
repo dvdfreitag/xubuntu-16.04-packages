@@ -31,4 +31,4 @@ sudo apt install -f
 # Now install sublime text
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt update
-sudo apt install sublime-text-installer
+sudo apt install sublime-text-installer numlockx git
