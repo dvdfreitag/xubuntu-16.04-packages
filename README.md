@@ -19,6 +19,7 @@ Running this script uninstalls the following packages:
 - transmission
 - tunderbird
 - screenshooter
+- imagemagick
 - parole
 - pulse
 - dictionary
